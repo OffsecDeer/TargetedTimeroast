@@ -3,7 +3,7 @@ PoC to tamper Active Directory user attributes to collect their hashes with MS-S
 
 ![timeroast](https://github.com/user-attachments/assets/c8b475fa-37fc-41b7-8676-228e75a057f5)
 
-Read [this article](https://medium.com/@offsecdeer) for the full description of the attack. This script requires:
+Read [this article](https://medium.com/@offsecdeer/targeted-timeroasting-stealing-user-hashes-with-ntp-b75c1f71b9ac) for the full description of the attack. This script requires:
 - domain admin credentials
 - domain joined machine
 - AD PS module installed
